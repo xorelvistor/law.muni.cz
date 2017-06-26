@@ -1,2 +1,2 @@
 # law.muni.cz
-Crawler pro získání spisových značek, které (ne)jsou opatřeny právní větou, z webu Nejvyššího správního soudu
+Obtain all the records of published decisions of the Supreme Administrative Court
